@@ -42,11 +42,12 @@ front page
 
  🛠️ How to Run
 
-1. Clone the repository or download the ZIP
-2. Open `home.html` in your browser
-3. Navigate using the menu
 
-```bash
+1. Open `home.html` in your browser
+2. Navigate using the menu
+
+
+
 
 
 
