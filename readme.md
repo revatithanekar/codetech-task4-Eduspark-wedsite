@@ -37,7 +37,7 @@ front page
 ![Explore] <img width="1886" height="933" alt="Image" src="https://github.com/user-attachments/assets/43952bbf-5bbc-4357-baa7-c55a2d0b6a3a" />
 
  Progress Tracker
-![Progress]
+![Progress]<img width="1677" height="949" alt="Image" src="https://github.com/user-attachments/assets/8f80468c-5ebb-4a4c-b449-fc98f97a0378" />
 
  🛠️ How to Run
 
@@ -46,6 +46,7 @@ front page
 3. Navigate using the menu
 
 ```bash
+
 
 
 
