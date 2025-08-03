@@ -28,7 +28,7 @@ EduSpark is a modern, responsive front-end user interface for an E-Learning plat
 
  📸 Screenshots
 front page
-[front page]("C:\Users\Treva\OneDrive\사진\Screenshots\Screenshot 2025-08-03 152234.png")
+[front page]("<img width="1865" height="984" alt="Image" src="https://github.com/user-attachments/assets/c811fe12-c855-4070-bde7-1b91904b501b" />")
 
  Home Page
 ![Home Page]("C:\Users\Treva\OneDrive\사진\Screenshots\Screenshot 2025-08-03 152315.png")
@@ -46,4 +46,5 @@ front page
 3. Navigate using the menu
 
 ```bash
-github link: (https://github.com/revatithanekar/codetech-task4-Eduspark-wedsite.git)
+
+
