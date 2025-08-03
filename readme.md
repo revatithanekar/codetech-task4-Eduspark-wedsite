@@ -34,7 +34,7 @@ front page
 ![Home Page]<img width="1911" height="968" alt="Image" src="https://github.com/user-attachments/assets/dfc104df-ba0a-45cc-a6b5-222d77db5384" />
 
  Explore Page
-![Explore] 
+![Explore] <img width="1886" height="933" alt="Image" src="https://github.com/user-attachments/assets/43952bbf-5bbc-4357-baa7-c55a2d0b6a3a" />
 
  Progress Tracker
 ![Progress]
@@ -46,6 +46,7 @@ front page
 3. Navigate using the menu
 
 ```bash
+
 
 
 
