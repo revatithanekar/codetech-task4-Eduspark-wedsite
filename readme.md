@@ -1,3 +1,4 @@
+# 🎯 CODTECH Internship - Task 4
 # EduSpark – E-Learning Platform UI (CODTECH Internship Task-4)
 
 EduSpark is a modern, responsive front-end user interface for an E-Learning platform built using HTML, CSS, and basic JavaScript. This project is submitted as **Task 4** for the **CODTECH Internship** and includes multiple pages showcasing course exploration, video embedding, progress tracking, and animations.
@@ -46,6 +47,7 @@ front page
 3. Navigate using the menu
 
 ```bash
+
 
 
 
