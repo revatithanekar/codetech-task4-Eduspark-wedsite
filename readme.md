@@ -31,13 +31,13 @@ front page
 [front page]<img width="1865" height="984" alt="Image" src="https://github.com/user-attachments/assets/c811fe12-c855-4070-bde7-1b91904b501b" />
 
  Home Page
-![Home Page] <img width="1886" height="933" alt="Image" src="https://github.com/user-attachments/assets/1bd90a8f-5fac-42a0-baa2-6caeb4cd654a" />
+![Home Page]<img width="1911" height="968" alt="Image" src="https://github.com/user-attachments/assets/dfc104df-ba0a-45cc-a6b5-222d77db5384" />
 
  Explore Page
-![Explore]("C:\Users\Treva\OneDrive\사진\Screenshots\Screenshot 2025-08-03 152338.png")
+![Explore] <img width="1886" height="933" alt="Image" src="https://github.com/user-attachments/assets/1bd90a8f-5fac-42a0-baa2-6caeb4cd654a" />
 
  Progress Tracker
-![Progress]("C:\Users\Treva\OneDrive\사진\Screenshots\Screenshot 2025-08-03 152415.png")
+![Progress]
 
  🛠️ How to Run
 
@@ -46,6 +46,7 @@ front page
 3. Navigate using the menu
 
 ```bash
+
 
 
 
